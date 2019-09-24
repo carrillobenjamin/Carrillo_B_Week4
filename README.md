@@ -1,1 +1,4 @@
-# Carrillo_B_Week4
+# This is a review project in week 4
+## We are learning such fun stuff
+
+all about how to do workflow with git and github... branches and commits and pushes
